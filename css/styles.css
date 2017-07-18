@@ -2,6 +2,23 @@ h1{
     text-align: center;
     font-family: Helvetica;
 }
+ul{
+    margin-top: 20px;
+}
+ul a{
+    color: #000;
+    background: lightblue;
+    width: 200px;
+    margin: auto;
+    padding: 10px 20px;
+}
+body{
+    background: #fff;
+    text-align: center;
+}
+.rounded a{
+    border-radius: 7px;
+}
 th{
     font-family: Arial;
     border: 1px solid;
